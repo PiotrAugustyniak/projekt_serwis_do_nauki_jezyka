@@ -1,0 +1,34 @@
+#main{
+  background-color:white;
+  height:auto;
+}
+#lista{
+height:auto;
+}
+#tekst{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+#logo{
+  border-bottom:5px solid white;
+}
+*{
+padding:0;
+margin:0;
+}
+body{
+  overflow:auto;
+}
+#formularz{
+  border:3px solid black;
+  border-radius:5px;
+  padding:20px;
+  height:auto;
+  min-height:550px;
+}
+a{
+  text-decoration:none;
+}
